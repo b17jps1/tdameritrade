@@ -45,9 +45,9 @@ setup(
     description='APIs for TD Ameritrade',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/timkpaine/{name}'.format(name=name),
-    author='Tim Paine',
-    author_email='t.paine154@gmail.com',
+    url='https://github.com/b17jps1/{name}'.format(name=name),
+    author='John Snyder',
+    author_email='b17jps@gmail.com',
     license='Apache 2.0',
 
     classifiers=[

@@ -50,8 +50,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'tdameritrade'
-copyright = '2018, Tim Paine'
-author = 'Tim Paine'
+copyright = '2018, Original Author:Tim Paine'
+author = 'John Snyder'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -151,7 +151,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'tdameritrade.tex', 'tdameritrade Documentation',
-     'Tim Paine', 'manual'),
+     'John Snyder', 'manual'),
 ]
 
 
